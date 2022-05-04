@@ -1,0 +1,126 @@
+/* navbar */
+.logo{
+  height:60px;
+  width: 170px;
+}
+.home_section{
+  background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-nature-background_23-2148941599.jpg?w=900&t=st=1651641370~exp=1651641970~hmac=3c33f99676bc0cb4bb3cae172b7a3b8f5331932cafaae2462c1651b4d8b4018b");
+border-bottom: 10px;
+  width: 100vw;
+  background-size: cover;
+  height:600px;
+
+}
+.homehead{
+  padding-top: 150px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size:70px;
+  font-weight: bold;
+}
+.homepara{
+  padding: 30px;
+font-size:20px;
+  font-family: 'Nothing You Could Do', cursive;
+  font-weight: bold;
+}
+.menu{
+
+background: linear-gradient(to left, #F0F0F0 0%, #A4CFAB 100%);
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;
+}
+.nav-item{
+font-family: 'Quicksand', sans-serif;
+color:black;
+
+}
+body{
+  text-align: center;
+}
+/* section2 */
+.about_me{
+  padding:60px;
+  background-color: #FAF5E4;
+  border-radius: 20px;
+  margin:35px;
+
+  }
+.sec2head{
+  font-family: 'Bangers', cursive;
+  color: #125B50;
+  text-align: left;
+}
+.sec2para{
+  font-family: 'Quicksand', sans-serif;
+  color:black;
+  text-align: left;
+  padding-top: 35px;
+}
+.img1{
+  height:300px;
+  witdth:300px;
+  border-radius:30px;
+}
+.box1{
+  background-color: #FAF5E4;
+  padding:50px;
+  border-radius:15px;
+  margin:35px;
+  font-family: 'Bangers', cursive;
+  color: #125B50;
+  text-align: center;
+}
+/* section3 */
+.section3{
+
+  margin:20px;
+  border-radius: 20px;
+}
+.img2{
+  height:250px;
+  width:300px;
+  padding:20px;
+  border-radius:10px;
+}
+.sec3head{
+  font-family: 'Bangers', cursive;
+  color: #125B50;
+  text-align: center;
+}
+.sec3para{
+  font-family: 'Quicksand', sans-serif;
+  color:black;
+  text-align: center;
+  padding-top: 35px;
+  font-weight: bold;
+  font-size: 25px;
+}
+  /* section4 */
+
+  .sec4head{
+    font-family: 'Bangers', cursive;
+    color: #125B50;
+    text-align: center;
+    padding-top: 35px;
+  }
+  .sec4para{
+    font-family: 'Quicksand', sans-serif;
+    color:black;
+    text-align: center;
+    padding-top: 35px;
+    font-weight: bold;
+    font-size: 25px;
+  }
+
+.contact_us{
+  background-color: #E8F9FD;
+  margin:10px;
+  border-radius:20px;
+}
+.ii{
+  padding:10px;
+  padding-top: 50px;
+
+}
